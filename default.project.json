@@ -1,0 +1,15 @@
+{
+  "name": "Stringutils",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Stringutils": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
